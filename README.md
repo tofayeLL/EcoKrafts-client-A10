@@ -51,6 +51,34 @@ Welcome to EcoKrafts, your one-stop destination for eco-friendly craft products!
 - **Social Media Integration**
   - Stay connected through social media platforms for updates about the craft products.
 
+
+### Technology Used Client Side:
+- Tailwind CSS
+- DaisyUI & Mamba UI
+- React router dom
+- React icons
+- React loader spinner
+- Prop types
+- Sweetalert2
+- React toastify
+- Firebase
+
+### Technologies Used Server Side
+- Node Js
+- Express Js
+- MongoDB
+
+### After Clone Project Uses Guideline
+- Step 1: Copy the Repository Link.
+- Step 2: Open VS Code and Navigate to Your Desired Folder.
+- Step 3: Clone the Repository.
+- Step 5: Install Dependencies(npm install).
+- Step 6: Start the Project (npm run dev).
+
+
+
+
+
 ### Packages Used
 - **React-simple-typewriter**
 - **React-tooltip**
