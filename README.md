@@ -52,7 +52,7 @@ Welcome to EcoKrafts, your one-stop destination for eco-friendly craft products!
   - Stay connected through social media platforms for updates about the craft products.
 
 
-### Technology Used Client Side:
+### Technology Used Client Side
 - Tailwind CSS
 - DaisyUI & Mamba UI
 - React router dom
@@ -74,8 +74,6 @@ Welcome to EcoKrafts, your one-stop destination for eco-friendly craft products!
 - Step 3: Clone the Repository.
 - Step 5: Install Dependencies(npm install).
 - Step 6: Start the Project (npm run dev).
-
-
 
 
 
